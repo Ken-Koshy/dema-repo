@@ -1,3 +1,3 @@
 #Demo
 
-Practice for git and github
+Practice for Git and Github
